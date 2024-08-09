@@ -1,0 +1,71 @@
+[
+    {
+        "id": "66b5aa42bed58f609e27e59a",
+        "imageUrl": "/files/achievement/Epsilon.png",
+        "assetPath": "",
+        "rewards": [],
+        "conditions": {
+          "availableForFinish": [
+            {
+              "id": "66b5aa35cc9875e5745ccbf6",
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "value": 15,
+              "type": "Completion",
+              "oneSessionOnly": false,
+              "completeInSeconds": 0,
+              "doNotResetIfCounterCompleted": false,
+              "isResetOnConditionFailed": false,
+              "counter": {
+                "id": "66b5aa46a8e740d448134a96",
+                "conditions": [
+                  {
+                    "id": "66b5aa4ac31f1f6c8ca4fc1e",
+                    "dynamicLocale": false,
+                    "target": "Savage",
+                    "compareMethod": ">=",
+                    "value": 1,
+                    "weapon": [],
+                    "distance": {
+                      "value": 0,
+                      "compareMethod": ">="
+                    },
+                    "weaponModsInclusive": [],
+                    "weaponModsExclusive": [],
+                    "enemyEquipmentInclusive": [],
+                    "enemyEquipmentExclusive": [],
+                    "weaponCaliber": [],
+                    "savageRole": [
+                      "bossBoar"
+                    ],
+                    "bodyPart": [],
+                    "daytime": {
+                      "from": 0,
+                      "to": 0
+                    },
+                    "enemyHealthEffects": [],
+                    "resetOnSessionEnd": false,
+                    "conditionType": "Kills"
+                  }
+                ]
+              },
+              "conditionType": "CounterCreator"
+            }
+          ],
+          "fail": []
+        },
+        "instantComplete": false,
+        "showNotificationsInGame": false,
+        "showProgress": false,
+        "prefab": "",
+        "rarity": "Rare",
+        "hidden": false,
+        "showConditions": true,
+        "progressBarEnabled": true,
+        "side": "Pmc",
+        "index": 2200
+      }
+]
