@@ -83,8 +83,6 @@ class CustomAchievementLoader implements IPostDBLoadMod, IPreSptLoadMod
 
         for (const entry in localeData)
         {
-            console.log(entry);
-
             globalLocales[lang][entry] = localeData[entry];
         }
     }
@@ -115,9 +113,6 @@ class CustomAchievementLoader implements IPostDBLoadMod, IPreSptLoadMod
             const imagePath = path.join(imagesPath, image);
             const filenameWithoutExtension = path.basename(imagePath, path.extname(imagePath));
             
-            console.log(imagePath);
-            console.log(filenameWithoutExtension);
-
             imageRouter.addRoute(`/files/achievement/${filenameWithoutExtension}`, imagePath);
         }
     }
