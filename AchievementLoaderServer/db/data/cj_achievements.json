@@ -1,0 +1,610 @@
+[
+    {
+        "id": "66b95219ace5651209a0de95",
+        "imageUrl": "/files/achievement/Standard_7.png",
+        "assetPath": "",
+        "rewards": [],
+        "conditions": {
+          "availableForFinish": [
+            {
+              "id": "66b9521979461c7ca4dcf7c5",
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "value": 25,
+              "type": "Completion",
+              "oneSessionOnly": false,
+              "completeInSeconds": 0,
+              "doNotResetIfCounterCompleted": false,
+              "isResetOnConditionFailed": false,
+              "counter": {
+                "id": "66b952195ad2a57a2f9208ce",
+                "conditions": [
+                  {
+                    "id": "66b95219e4c63c050274bdf7",
+                    "dynamicLocale": false,
+                    "target": "Any",
+                    "compareMethod": ">=",
+                    "value": 1,
+                    "weapon": [
+                        "5c0126f40db834002a125382"
+                    ],
+                    "distance": {
+                      "value": 0,
+                      "compareMethod": ">="
+                    },
+                    "weaponModsInclusive": [],
+                    "weaponModsExclusive": [],
+                    "enemyEquipmentInclusive": [],
+                    "enemyEquipmentExclusive": [],
+                    "weaponCaliber": [],
+                    "savageRole": [],
+                    "bodyPart": [
+                      "Head"
+                    ],
+                    "daytime": {
+                      "from": 0,
+                      "to": 0
+                    },
+                    "enemyHealthEffects": [],
+                    "resetOnSessionEnd": false,
+                    "conditionType": "Kills"
+                  }
+                ]
+              },
+              "conditionType": "CounterCreator"
+            }
+          ],
+          "fail": []
+        },
+        "instantComplete": false,
+        "showNotificationsInGame": true,
+        "showProgress": true,
+        "prefab": "",
+        "rarity": "Rare",
+        "hidden": false,
+        "showConditions": false,
+        "progressBarEnabled": true,
+        "side": "Pmc",
+        "index": 99999
+      },
+      {
+        "id": "66b95ab5bdfe7aab8d4df94f",
+        "imageUrl": "/files/achievement/Legendary_19.png",
+        "assetPath": "",
+        "rewards": [],
+        "conditions": {
+          "availableForFinish": [
+            {
+              "id": "66b95ab5414c21e4e98c4bb7",
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "value": 150,
+              "type": "Completion",
+              "oneSessionOnly": false,
+              "completeInSeconds": 0,
+              "doNotResetIfCounterCompleted": false,
+              "isResetOnConditionFailed": false,
+              "counter": {
+                "id": "66b95ab505b34d7eacfac0bf",
+                "conditions": [
+                  {
+                    "id": "66b95ab5737e1525a03ab3e4",
+                    "dynamicLocale": false,
+                    "target": "Any",
+                    "compareMethod": ">=",
+                    "value": 1,
+                    "weapon": [
+                        "5cadc190ae921500103bb3b6",
+                        "5e81c3cbac2bb513793cdc75",
+                        "5f36a0e5fbf956000b716b65",
+                        "5d3eb3b0a4b93615055e84d2",
+                        "5d67abc1a4b93614ec50137f",
+                        "5a7ae0c351dfba0017554310",
+                        "5b1fa9b25acfc40018633c01",
+                        "63088377b5cd696784087147",
+                        "6193a720f8ee7e52e42109ed",
+                        "602a9740da11d6478d5a06dc",
+                        "576a581d2459771e7b1bc4f1",
+                        "5448bd6b4bdc2dfc2f8b4569",
+                        "579204f224597773d619e051",
+                        "5a17f98cfcdbcb0980087290",
+                        "56d59856d2720bd8418b456a",
+                        "56e0598dd2720bb5668b45a6",
+                        "59f98b4986f7746f546d2cef",
+                        "5abccb7dd8ce87001773e277",
+                        "571a12c42459771f627b58a0",
+                        "5b3b713c5acfc4330140bd8d"
+                    ],
+                    "distance": {
+                      "value": 0,
+                      "compareMethod": ">="
+                    },
+                    "weaponModsInclusive": [
+                        [
+                            "5abcc328d8ce8700194394f3",
+                            "56e05b06d2720bb2668b4586",
+                            "5c7e8fab2e22165df16b889b",
+                            "5a33a8ebc4a282000c5a950d",
+                            "5c6165902e22160010261b28",
+                            "5a32a064c4a28200741e22de",
+                            "5fc4b9b17283c4046c5814d7",
+                            "5d3ef698a4b9361182109872"
+                        ]
+                    ],
+                    "weaponModsExclusive": [],
+                    "enemyEquipmentInclusive": [],
+                    "enemyEquipmentExclusive": [],
+                    "weaponCaliber": [],
+                    "savageRole": [],
+                    "bodyPart": [
+                      "Head"
+                    ],
+                    "daytime": {
+                      "from": 0,
+                      "to": 0
+                    },
+                    "enemyHealthEffects": [],
+                    "resetOnSessionEnd": false,
+                    "conditionType": "Kills"
+                  }
+                ]
+              },
+              "conditionType": "CounterCreator"
+            }
+          ],
+          "fail": []
+        },
+        "instantComplete": false,
+        "showNotificationsInGame": true,
+        "showProgress": true,
+        "prefab": "",
+        "rarity": "Legendary",
+        "hidden": false,
+        "showConditions": false,
+        "progressBarEnabled": true,
+        "side": "Pmc",
+        "index": 999999
+      },
+      {
+        "id": "66b97946e83aade04b2ed6d4",
+        "imageUrl": "/files/achievement/Rare_10.png",
+        "assetPath": "",
+        "rewards": [],
+        "conditions": {
+          "availableForFinish": [
+            {
+              "id": "66b97946be892fa83c6d82ec",
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "value": 50,
+              "type": "Completion",
+              "oneSessionOnly": false,
+              "completeInSeconds": 0,
+              "doNotResetIfCounterCompleted": false,
+              "isResetOnConditionFailed": false,
+              "counter": {
+                "id": "66b9794677f89c9e5756c226",
+                "conditions": [
+                  {
+                    "id": "66b95219e4c63c050274bdf7",
+                    "dynamicLocale": false,
+                    "target": "Savage",
+                    "compareMethod": ">=",
+                    "value": 1,
+                    "weapon": [],
+                    "distance": {
+                      "value": 0,
+                      "compareMethod": ">="
+                    },
+                    "weaponModsInclusive": [],
+                    "weaponModsExclusive": [],
+                    "enemyEquipmentInclusive": [],
+                    "enemyEquipmentExclusive": [],
+                    "weaponCaliber": [],
+                    "savageRole": [],
+                    "bodyPart": [],
+                    "daytime": {
+                      "from": 0,
+                      "to": 0
+                    },
+                    "enemyHealthEffects": [],
+                    "resetOnSessionEnd": false,
+                    "conditionType": "Kills"
+                  },
+                  {
+                    "id": "66b97bed64dbb7fa86d42ad5",
+                    "dynamicLocale": false,
+                    "target": [
+                      "BuffsAdrenaline"
+                    ],
+                    "conditionType": "HealthBuff"
+                  }
+                ]
+              },
+              "conditionType": "CounterCreator"
+            }
+          ],
+          "fail": []
+        },
+        "instantComplete": false,
+        "showNotificationsInGame": true,
+        "showProgress": true,
+        "prefab": "",
+        "rarity": "Rare",
+        "hidden": false,
+        "showConditions": false,
+        "progressBarEnabled": true,
+        "side": "Pmc",
+        "index": 99999
+      },
+      {
+        "id": "66ba3ffe1201cb221c5cc63d",
+        "imageUrl": "/files/achievement/Standard_27.png",
+        "assetPath": "",
+        "rewards": [],
+        "conditions": {
+          "availableForFinish": [
+            {
+              "compareMethod": ">=",
+              "conditionType": "Skill",
+              "dynamicLocale": false,
+              "globalQuestCounterId": "",
+              "id": "66ba3ffe677218aaf9b6f6e4",
+              "index": 0,
+              "parentId": "",
+              "target": "Endurance",
+              "value": 10,
+              "visibilityConditions": []
+            }
+          ],
+          "fail": []
+        },
+        "instantComplete": false,
+        "showNotificationsInGame": true,
+        "showProgress": true,
+        "prefab": "",
+        "rarity": "Common",
+        "hidden": false,
+        "showConditions": false,
+        "progressBarEnabled": true,
+        "side": "Pmc",
+        "index": 99999
+      },
+      {
+        "id": "66ba46fa114a0995ef6adfab",
+        "imageUrl": "/files/achievement/Standard_27.png",
+        "assetPath": "",
+        "rewards": [],
+        "conditions": {
+          "availableForFinish": [
+            {
+              "compareMethod": ">=",
+              "conditionType": "Skill",
+              "dynamicLocale": false,
+              "globalQuestCounterId": "",
+              "id": "66ba46faef6b100c681260d3",
+              "index": 0,
+              "parentId": "",
+              "target": "Endurance",
+              "value": 25,
+              "visibilityConditions": []
+            }
+          ],
+          "fail": []
+        },
+        "instantComplete": false,
+        "showNotificationsInGame": true,
+        "showProgress": true,
+        "prefab": "",
+        "rarity": "Rare",
+        "hidden": false,
+        "showConditions": false,
+        "progressBarEnabled": true,
+        "side": "Pmc",
+        "index": 99999
+      },
+      {
+        "id": "66ba46fa479b692dfd126a9b",
+        "imageUrl": "/files/achievement/Standard_27.png",
+        "assetPath": "",
+        "rewards": [],
+        "conditions": {
+          "availableForFinish": [
+            {
+              "compareMethod": ">=",
+              "conditionType": "Skill",
+              "dynamicLocale": false,
+              "globalQuestCounterId": "",
+              "id": "66ba46fa611b8046e28bcba9",
+              "index": 0,
+              "parentId": "",
+              "target": "Endurance",
+              "value": 51,
+              "visibilityConditions": []
+            }
+          ],
+          "fail": []
+        },
+        "instantComplete": false,
+        "showNotificationsInGame": true,
+        "showProgress": true,
+        "prefab": "",
+        "rarity": "Legendary",
+        "hidden": false,
+        "showConditions": false,
+        "progressBarEnabled": true,
+        "side": "Pmc",
+        "index": 99999
+      },
+      {
+        "id": "66ba47fd1227f068985ad3cb",
+        "imageUrl": "/files/achievement/cj_str_achievement.png",
+        "assetPath": "",
+        "rewards": [],
+        "conditions": {
+          "availableForFinish": [
+            {
+              "compareMethod": ">=",
+              "conditionType": "Skill",
+              "dynamicLocale": false,
+              "globalQuestCounterId": "",
+              "id": "66ba47fd0096370341c3b241",
+              "index": 0,
+              "parentId": "",
+              "target": "Strength",
+              "value": 10,
+              "visibilityConditions": []
+            }
+          ],
+          "fail": []
+        },
+        "instantComplete": false,
+        "showNotificationsInGame": true,
+        "showProgress": true,
+        "prefab": "",
+        "rarity": "Common",
+        "hidden": false,
+        "showConditions": false,
+        "progressBarEnabled": true,
+        "side": "Pmc",
+        "index": 99999
+      },
+      {
+        "id": "66ba47fddb10f252e42724cc",
+        "imageUrl": "/files/achievement/cj_str_achievement.png",
+        "assetPath": "",
+        "rewards": [],
+        "conditions": {
+          "availableForFinish": [
+            {
+              "compareMethod": ">=",
+              "conditionType": "Skill",
+              "dynamicLocale": false,
+              "globalQuestCounterId": "",
+              "id": "66ba47fdf627eacf78e014f7",
+              "index": 0,
+              "parentId": "",
+              "target": "Strength",
+              "value": 25,
+              "visibilityConditions": []
+            }
+          ],
+          "fail": []
+        },
+        "instantComplete": false,
+        "showNotificationsInGame": true,
+        "showProgress": true,
+        "prefab": "",
+        "rarity": "Rare",
+        "hidden": false,
+        "showConditions": false,
+        "progressBarEnabled": true,
+        "side": "Pmc",
+        "index": 99999
+      },
+      {
+        "id": "66ba47fd288d67db29f444cc",
+        "imageUrl": "/files/achievement/cj_str_achievement.png",
+        "assetPath": "",
+        "rewards": [],
+        "conditions": {
+          "availableForFinish": [
+            {
+              "compareMethod": ">=",
+              "conditionType": "Skill",
+              "dynamicLocale": false,
+              "globalQuestCounterId": "",
+              "id": "66ba47fdbc7cf8fdccf6659d",
+              "index": 0,
+              "parentId": "",
+              "target": "Strength",
+              "value": 51,
+              "visibilityConditions": []
+            }
+          ],
+          "fail": []
+        },
+        "instantComplete": false,
+        "showNotificationsInGame": true,
+        "showProgress": true,
+        "prefab": "",
+        "rarity": "Legendary",
+        "hidden": false,
+        "showConditions": false,
+        "progressBarEnabled": true,
+        "side": "Pmc",
+        "index": 99999
+      },
+      {
+        "id": "66ba4afe793a1c42419dcb32",
+        "imageUrl": "/files/achievement/cj_paranoid.png",
+        "assetPath": "",
+        "rewards": [],
+        "conditions": {
+          "availableForFinish": [
+            {
+              "compareMethod": ">=",
+              "conditionType": "Skill",
+              "dynamicLocale": false,
+              "globalQuestCounterId": "",
+              "id": "66ba4afe709941c8027a1c0e",
+              "index": 0,
+              "parentId": "",
+              "target": "Attention",
+              "value": 15,
+              "visibilityConditions": []
+            },
+            {
+              "compareMethod": ">=",
+              "conditionType": "Skill",
+              "dynamicLocale": false,
+              "globalQuestCounterId": "",
+              "id": "66ba4e0126acd20b1896a61a",
+              "index": 0,
+              "parentId": "",
+              "target": "Perception",
+              "value": 10,
+              "visibilityConditions": []
+            }
+          ],
+          "fail": []
+        },
+        "instantComplete": false,
+        "showNotificationsInGame": true,
+        "showProgress": true,
+        "prefab": "",
+        "rarity": "Rare",
+        "hidden": false,
+        "showConditions": true,
+        "progressBarEnabled": true,
+        "side": "Pmc",
+        "index": 99999
+      },
+      {
+        "id": "66ba4afeeb1125aac3bbccbc",
+        "imageUrl": "/files/achievement/cj_ratting_around.png",
+        "assetPath": "",
+        "rewards": [],
+        "conditions": {
+          "availableForFinish": [
+            {
+              "compareMethod": ">=",
+              "conditionType": "Skill",
+              "dynamicLocale": false,
+              "globalQuestCounterId": "",
+              "id": "66ba4afe709941c8027a1c0e",
+              "index": 0,
+              "parentId": "",
+              "target": "CovertMovement",
+              "value": 25,
+              "visibilityConditions": []
+            }
+          ],
+          "fail": []
+        },
+        "instantComplete": false,
+        "showNotificationsInGame": true,
+        "showProgress": true,
+        "prefab": "",
+        "rarity": "Rare",
+        "hidden": false,
+        "showConditions": false,
+        "progressBarEnabled": true,
+        "side": "Pmc",
+        "index": 99999
+      },
+      {
+        "id": "66ba51a51d693777fee9cc72",
+        "imageUrl": "/files/achievement/cj_hunting_season.png",
+        "assetPath": "",
+        "rewards": [
+          {
+            "id": "629f0a7650f43060015c5382",
+            "index": 0,
+            "target": "Attention",
+            "type": "Skill",
+            "unknown": false,
+            "value": "300"
+          }
+        ],
+        "conditions": {
+          "availableForFinish": [
+            {
+              "id": "66ba51a5cb3814dc77a5af05",
+              "index": 0,
+              "dynamicLocale": false,
+              "visibilityConditions": [],
+              "globalQuestCounterId": "",
+              "parentId": "",
+              "value": 1,
+              "type": "Completion",
+              "oneSessionOnly": false,
+              "completeInSeconds": 0,
+              "doNotResetIfCounterCompleted": false,
+              "isResetOnConditionFailed": false,
+              "counter": {
+                "id": "66ba51a5d44456eb0a9398ba",
+                "conditions": [
+                  {
+                    "id": "66ba51a5cfa00a42e957f299",
+                    "dynamicLocale": false,
+                    "target": "Any",
+                    "compareMethod": ">=",
+                    "value": 1,
+                    "weapon": [
+                        "627e14b21713922ded6f2c15",
+                        "588892092459774ac91d4b11",
+                        "5bfea6e90db834001b7347f3",
+                        "5bfd297f0db834001a669119",
+                        "5ae08f0a5acfc408fb1398a1",
+                        "55801eed4bdc2d89578b4588",
+                        "5df24cf80dee1b22f862e9bc",
+                        "5de652c31b7e3716273428be"
+                    ],
+                    "distance": {
+                      "value": 0,
+                      "compareMethod": ">="
+                    },
+                    "weaponModsInclusive": [],
+                    "weaponModsExclusive": [],
+                    "enemyEquipmentInclusive": [],
+                    "enemyEquipmentExclusive": [],
+                    "weaponCaliber": [],
+                    "savageRole": [],
+                    "bodyPart": [],
+                    "daytime": {
+                      "from": 0,
+                      "to": 0
+                    },
+                    "enemyHealthEffects": [],
+                    "resetOnSessionEnd": false,
+                    "conditionType": "Kills"
+                  }
+                ]
+              },
+              "conditionType": "CounterCreator"
+            }
+          ],
+          "fail": []
+        },
+        "instantComplete": false,
+        "showNotificationsInGame": true,
+        "showProgress": true,
+        "prefab": "",
+        "rarity": "Rare",
+        "hidden": false,
+        "showConditions": false,
+        "progressBarEnabled": true,
+        "side": "Pmc",
+        "index": 99999
+      }
+]

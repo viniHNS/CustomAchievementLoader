@@ -31,6 +31,7 @@ class CustomAchievementLoader implements IPostDBLoadMod, IPreSptLoadMod
         this.importAchievementData();
         this.loadAchievementLocales();
         this.loadImages();
+        this.loadRewards();
     }
 
     private importAchievementData(): void
@@ -116,6 +117,20 @@ class CustomAchievementLoader implements IPostDBLoadMod, IPreSptLoadMod
             imageRouter.addRoute(`/files/achievement/${filenameWithoutExtension}`, imagePath);
         }
     }
+
+    private loadRewards(): void
+    {
+        const rewardsPath = path.join(path.dirname(__filename), "..", "db", "images");
+        const rewards = fs.readdirSync(rewardsPath);
+
+
+    }
+}
+
+interface IReward
+{
+    id: string;
+    rewards: string[];
 }
 
 export const mod = new CustomAchievementLoader();
