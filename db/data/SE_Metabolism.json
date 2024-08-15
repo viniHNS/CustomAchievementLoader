@@ -1,0 +1,332 @@
+[
+    {
+      "id": "66bdbb9c6b99c785df9be334",
+      "imageUrl": "/files/achievement/Standard_23.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbbd6e6c665ed2398c464",
+            "index": 0,
+            "parentId": "",
+            "target": "Metabolism",
+            "value": 5,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Common",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbb9c5fedfa03b61b992d",
+      "imageUrl": "/files/achievement/Standard_23.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbbd66144918aa42dbcb9",
+            "index": 0,
+            "parentId": "",
+            "target": "Metabolism",
+            "value": 10,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Common",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbb9c388a5d11e0440735",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbbd67f1c95742c5a1ec5",
+            "index": 0,
+            "parentId": "",
+            "target": "Metabolism",
+            "value": 15,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbb9cb984af0e8c968f70",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbbd6c616c5fd1cc27187",
+            "index": 0,
+            "parentId": "",
+            "target": "Metabolism",
+            "value": 20,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbb9c37a39db47119fe04",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbbd6ba0ebdcf635cb76e",
+            "index": 0,
+            "parentId": "",
+            "target": "Metabolism",
+            "value": 25,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbb9cd36e78ef5b74a41a",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbbd6330e836bc6946361",
+            "index": 0,
+            "parentId": "",
+            "target": "Metabolism",
+            "value": 30,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbb9c44c3326eda982f00",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbbd60eddbbda4d2e8810",
+            "index": 0,
+            "parentId": "",
+            "target": "Metabolism",
+            "value": 35,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbb9ca11eab70f2692792",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbbd698b46e1f06800622",
+            "index": 0,
+            "parentId": "",
+            "target": "Metabolism",
+            "value": 40,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbb9c641d6c365b0c4522",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbbd612ef816b384f0b91",
+            "index": 0,
+            "parentId": "",
+            "target": "Metabolism",
+            "value": 45,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbb9ca7ccf99a490e1f0a",
+      "imageUrl": "/files/achievement/KeySalvation.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbbd64cd5932d235b12f6",
+            "index": 0,
+            "parentId": "",
+            "target": "Metabolism",
+            "value": 51,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Legendary",
+      "hidden": true,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    }
+  ]
