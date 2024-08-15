@@ -1,0 +1,332 @@
+[
+    {
+      "id": "66bdbf7974230c57b5a27b0c",
+      "imageUrl": "/files/achievement/Standard_23.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbfa620e589ef50ecce8b",
+            "index": 0,
+            "parentId": "",
+            "target": "Health",
+            "value": 5,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Common",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbf79db179933d1647771",
+      "imageUrl": "/files/achievement/Standard_23.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbfa687e51af4660a1721",
+            "index": 0,
+            "parentId": "",
+            "target": "Health",
+            "value": 10,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Common",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbf796a3c1c7c2e1822ea",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbfa68e4e5eaba77cef9f",
+            "index": 0,
+            "parentId": "",
+            "target": "Health",
+            "value": 15,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbf79067afa12e8c9a132",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbfa65890469a24b5db57",
+            "index": 0,
+            "parentId": "",
+            "target": "Health",
+            "value": 20,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbf7933d43fd02a004aa5",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbfa6683e86e061aea9ed",
+            "index": 0,
+            "parentId": "",
+            "target": "Health",
+            "value": 25,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbf7969955fa037a32e2c",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbfa656d644ce6dadef3a",
+            "index": 0,
+            "parentId": "",
+            "target": "Health",
+            "value": 30,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbf792f2328a1a8c645fc",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbfa6c49516310db40255",
+            "index": 0,
+            "parentId": "",
+            "target": "Health",
+            "value": 35,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbf79c3f258283daaa210",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbfa6d116849c8f939d6a",
+            "index": 0,
+            "parentId": "",
+            "target": "Health",
+            "value": 40,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbf798289c79c10913a5f",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbfa632ac576cffb4d006",
+            "index": 0,
+            "parentId": "",
+            "target": "Health",
+            "value": 45,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdbf79bec9e066828e49ae",
+      "imageUrl": "/files/achievement/KeySalvation.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdbfa6178b96b0f63f48e7",
+            "index": 0,
+            "parentId": "",
+            "target": "Health",
+            "value": 51,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Legendary",
+      "hidden": true,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    }
+  ]
