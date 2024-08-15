@@ -1,0 +1,332 @@
+[
+    {
+      "id": "66bdc88a681d8563c5078144",
+      "imageUrl": "/files/achievement/Standard_23.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdc8b5f753d18c645e405f",
+            "index": 0,
+            "parentId": "",
+            "target": "Vitality",
+            "value": 5,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Common",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdc88ac8a4e33118e774c3",
+      "imageUrl": "/files/achievement/Standard_23.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdc8b5663fcd88f1240054",
+            "index": 0,
+            "parentId": "",
+            "target": "Vitality",
+            "value": 10,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Common",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdc88a6a83c63707069713",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdc8b56741116801a298a8",
+            "index": 0,
+            "parentId": "",
+            "target": "Vitality",
+            "value": 15,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdc88acf92f5fe60bb3ae1",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdc8b5692b45cda605c286",
+            "index": 0,
+            "parentId": "",
+            "target": "Vitality",
+            "value": 20,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdc88ade30028358c32980",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdc8e07e25672a2ce08e45",
+            "index": 0,
+            "parentId": "",
+            "target": "Vitality",
+            "value": 25,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdc88aca7a8f06a3986dce",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdc8e03693292336cc6fe5",
+            "index": 0,
+            "parentId": "",
+            "target": "Vitality",
+            "value": 30,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdc88adbae1422e4b7a3cd",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdc8f374758015f7150d8b",
+            "index": 0,
+            "parentId": "",
+            "target": "Vitality",
+            "value": 35,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdc88a8de2f30ceb043de8",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdc8f3c7d089e7471c19f6",
+            "index": 0,
+            "parentId": "",
+            "target": "Vitality",
+            "value": 40,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdc88a449c51c5cbfe77ee",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdc909213c91347e2fe90a",
+            "index": 0,
+            "parentId": "",
+            "target": "Vitality",
+            "value": 45,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdc88a92d6752d35d96ecb",
+      "imageUrl": "/files/achievement/KeySalvation.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdc9092cf28b9bd6178190",
+            "index": 0,
+            "parentId": "",
+            "target": "Vitality",
+            "value": 51,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Legendary",
+      "hidden": true,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    }
+  ]
