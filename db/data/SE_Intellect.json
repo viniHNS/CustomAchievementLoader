@@ -1,0 +1,332 @@
+[
+    {
+      "id": "66bdcf263ddb2d106c3f1dd5",
+      "imageUrl": "/files/achievement/Standard_23.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdcf4e0f6b5b497ca0dbe7",
+            "index": 0,
+            "parentId": "",
+            "target": "Intellect",
+            "value": 5,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Common",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdcf264978db0eeb3ff5b6",
+      "imageUrl": "/files/achievement/Standard_23.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdcf4e738fb4d8fd34c3c2",
+            "index": 0,
+            "parentId": "",
+            "target": "Intellect",
+            "value": 10,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Common",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdcf269ff0ee86dfd42af4",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdcf4e358e106647e969a3",
+            "index": 0,
+            "parentId": "",
+            "target": "Intellect",
+            "value": 15,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdcf26118b41371886e412",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdcf4ef3e2803dee7c9831",
+            "index": 0,
+            "parentId": "",
+            "target": "Intellect",
+            "value": 20,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdcf2618f9b5d343d3011b",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdcf4e471c342a0d97afc2",
+            "index": 0,
+            "parentId": "",
+            "target": "Intellect",
+            "value": 25,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdcf263f1a58d0853bbac5",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdcf4e301cdf03210bb1b1",
+            "index": 0,
+            "parentId": "",
+            "target": "Intellect",
+            "value": 30,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdcf264a446eaf70361428",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdcf84606de708ecf88bfd",
+            "index": 0,
+            "parentId": "",
+            "target": "Intellect",
+            "value": 35,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdcf262438cc02a97b4a85",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdcf8414b37c9a21fd50a5",
+            "index": 0,
+            "parentId": "",
+            "target": "Intellect",
+            "value": 40,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdcf26c95fd51ebe7a5c13",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdcf97637dc656973fdd31",
+            "index": 0,
+            "parentId": "",
+            "target": "Intellect",
+            "value": 45,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bdcf26047594bf9156c736",
+      "imageUrl": "/files/achievement/KeySalvation.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bdcf974833b6870e1afab9",
+            "index": 0,
+            "parentId": "",
+            "target": "Intellect",
+            "value": 51,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Legendary",
+      "hidden": true,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    }
+  ]
