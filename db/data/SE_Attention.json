@@ -1,0 +1,332 @@
+[
+    {
+      "id": "66bda7020bc08a1ad71d5d4e",
+      "imageUrl": "/files/achievement/Standard_23.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bda74461dd601c7447c9f2",
+            "index": 0,
+            "parentId": "",
+            "target": "Attention",
+            "value": 5,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Common",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bda702d99170cdc445b3a7",
+      "imageUrl": "/files/achievement/Standard_23.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bda744ff181a5317dd3bdc",
+            "index": 0,
+            "parentId": "",
+            "target": "Attention",
+            "value": 10,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Common",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bda7029b166061781b6998",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bda744f2a3372ec647a3a3",
+            "index": 0,
+            "parentId": "",
+            "target": "Attention",
+            "value": 15,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bda70233d8a70cfc46d577",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bda744036af7bb3e4c00c1",
+            "index": 0,
+            "parentId": "",
+            "target": "Attention",
+            "value": 20,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bda702994a8fc49d088c81",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bda7448233b836c7d6d02a",
+            "index": 0,
+            "parentId": "",
+            "target": "Attention",
+            "value": 25,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bda7290ff19f216e9e8346",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bda7899fb1e632ac07b944",
+            "index": 0,
+            "parentId": "",
+            "target": "Attention",
+            "value": 30,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bda729a1376bfb523b38df",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bda79716199cdc78f846c5",
+            "index": 0,
+            "parentId": "",
+            "target": "Attention",
+            "value": 35,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bda729a28ba5e8f1a39fa9",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bda7971b55d4be3e26433d",
+            "index": 0,
+            "parentId": "",
+            "target": "Attention",
+            "value": 40,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bda7291c6de960a4f5489c",
+      "imageUrl": "/files/achievement/Rare_21.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bda7971f5e69b5e0996dae",
+            "index": 0,
+            "parentId": "",
+            "target": "Attention",
+            "value": 45,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Rare",
+      "hidden": false,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    },
+    {
+      "id": "66bda72928be5a215c4bce81",
+      "imageUrl": "/files/achievement/KeySalvation.png",
+      "assetPath": "",
+      "rewards": [],
+      "conditions": {
+        "availableForFinish": [
+          {
+            "compareMethod": ">=",
+            "conditionType": "Skill",
+            "dynamicLocale": false,
+            "globalQuestCounterId": "",
+            "id": "66bda79722e8987141fac346",
+            "index": 0,
+            "parentId": "",
+            "target": "Attention",
+            "value": 51,
+            "visibilityConditions": []
+          }
+        ],
+        "fail": []
+      },
+      "instantComplete": false,
+      "showNotificationsInGame": true,
+      "showProgress": true,
+      "prefab": "",
+      "rarity": "Legendary",
+      "hidden": true,
+      "showConditions": false,
+      "progressBarEnabled": true,
+      "side": "Pmc",
+      "index": 99999
+    }
+  ]
