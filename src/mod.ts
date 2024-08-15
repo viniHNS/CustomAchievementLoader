@@ -10,11 +10,14 @@ import { IPreSptLoadMod } from "@spt/models/external/IPreSptLoadMod";
 import { InstanceManager } from "./InstanceManager";
 import { LogTextColor } from "@spt/models/spt/logging/LogTextColor";
 import { IAchievement } from "@spt/models/eft/common/tables/IAchievement";
+import { RouteAction } from "@spt/di/Router";
 
 class CustomAchievementLoader implements IPostDBLoadMod, IPreSptLoadMod
 {
     private InstanceManager: InstanceManager = new InstanceManager();
     private Database: IDatabaseTables;
+
+    private Rewards: IReward[] = [];
 
     public preSptLoad(container: DependencyContainer)
     {
@@ -32,6 +35,7 @@ class CustomAchievementLoader implements IPostDBLoadMod, IPreSptLoadMod
         this.loadAchievementLocales();
         this.loadImages();
         this.loadRewards();
+        this.registerRoute();
     }
 
     private importAchievementData(): void
@@ -88,6 +92,30 @@ class CustomAchievementLoader implements IPostDBLoadMod, IPreSptLoadMod
         }
     }
 
+    private loadRewards(): void
+    {
+        const rewardPath = path.join(path.dirname(__filename), "..", "db", "rewards");
+        const files = fs.readdirSync(rewardPath);
+        
+        const jsonFiles = files
+            .filter(file => path.extname(file) === ".json")
+            .map(file => path.basename(file, ".json"));
+
+
+        for (const file of jsonFiles)
+        {   
+            const filePath = path.join(path.dirname(__filename), "..", "db", "rewards", `${file}.json`);
+            const rewards = this.loadRewardFile(filePath);
+
+            for (const reward of rewards)
+            {
+                this.Rewards.push(reward);
+            }
+
+            this.InstanceManager.logger.logWithColor(`CJCAL: Loaded: ${rewards.length} rewards from ${file}.json`, LogTextColor.GREEN);
+        }    
+    }
+
     private loadAchievementFile(filePath: string): IAchievement[] 
     {
         const data = fs.readFileSync(filePath, 'utf-8');
@@ -99,6 +127,13 @@ class CustomAchievementLoader implements IPostDBLoadMod, IPreSptLoadMod
     {
         const data = fs.readFileSync(filePath, 'utf-8');
         const jsonData = JSON.parse(data) as Record<string, string>;
+        return jsonData;
+    }
+
+    private loadRewardFile(filePath: string): IReward[]
+    {
+        const data = fs.readFileSync(filePath, 'utf-8');
+        const jsonData = JSON.parse(data) as IReward[];
         return jsonData;
     }
 
@@ -118,19 +153,35 @@ class CustomAchievementLoader implements IPostDBLoadMod, IPreSptLoadMod
         }
     }
 
-    private loadRewards(): void
+    private registerRoute(): void
     {
-        const rewardsPath = path.join(path.dirname(__filename), "..", "db", "images");
-        const rewards = fs.readdirSync(rewardsPath);
-
-
+        this.InstanceManager.staticRouter.registerStaticRouter(
+            "CheckAchievements",
+            [
+                {
+                    url: "/CustomAchievementLoader/CheckAchievements", 
+                    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+                    action: async (url, info, sessionId, output) => 
+                    {                     
+                        return JSON.stringify({response: "OK"});
+                    }
+                }
+            ],
+            ""
+        )
     }
 }
 
 interface IReward
 {
     id: string;
-    rewards: string[];
+    rewards: Record<string, number>;
+}
+
+interface IAchievementCompletePacket
+{
+    Id: string;
+    SessionId: string; 
 }
 
 export const mod = new CustomAchievementLoader();
